@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description>
+      Update site.
+   </description>
+   <feature url="features/org.eclipse.examples.slideshow.feature_0.0.0.v0.jar" id="org.eclipse.examples.slideshow.feature" version="0.0.0.v0">
+      <category name="Examples"/>
+   </feature>
+   <category-def name="Examples" label="Examples">
+      <description>
+         Examples.
+      </description>
+   </category-def>
+</site>

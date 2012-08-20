@@ -1,0 +1,6 @@
+site/vendor = DevBoost GmbH
+site/uploadPath = www.buildboost.org:/srv/www_buildboost.org/examples/imageutils/update
+site/usernameProperty = DROPSBOX_UPLOAD_USER
+site/passwordProperty = DROPSBOX_UPLOAD_PASS
+
+feature/org.eclipse.examples.slideshow.feature/version = 0.2.0
