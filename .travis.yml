@@ -2,4 +2,4 @@ before_script:
   - wget -N http://buildboost.org/build.xml
   
 language: java
-script: "ant -DrootRepository='git:https://github.com/FunThomas424242/EclipseSlideshow-Build.git'"
+script: "ant -DrootRepository='git:https://github.com/DevBoost/EclipseSlideshow-Build.git'"
